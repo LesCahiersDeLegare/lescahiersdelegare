@@ -1,8 +1,0 @@
-:root, [data-bs-theme=light] {
-  --bs-link-decoration: none;
-}
-
-a {
-  text-decoration: var(--bs-link-decoration);
-}
-
